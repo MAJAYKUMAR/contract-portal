@@ -1,0 +1,18 @@
+{
+  "exclude": [
+    "no-sponsorship",
+    "USC-GC-only",
+    "citizenship-required",
+    "confirmed-1099-only"
+  ],
+  "expiredCheck": "Dice HTTP 410 or 'no longer available'; LinkedIn 'no longer accepting applications' or 404; HTTP 429/502 is NOT expiry",
+  "payFloorUsdPerHour": 50,
+  "refreshCadenceHours": 2,
+  "refreshWindowET": "08:00-18:00",
+  "sources": [
+    "dice",
+    "linkedin"
+  ],
+  "windowDays": 14,
+  "windowStart": "2026-11-11"
+}
