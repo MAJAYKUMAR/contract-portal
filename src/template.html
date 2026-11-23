@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:,">
+<title>Contract Portal</title>
+<!-- {{ANALYTICS}} -->
+<style>
+<!-- {{STYLES}} -->
+</style>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Contract roles</h1>
+    <p class="lede">ML Engineer / MLOps contract roles only — C2C first, then W2. Filtered for immediate start; stated rates are $50/hr+, and pay-not-stated roles are included pending vendor confirmation. Remote US or Texas where possible. Every role below was verified live on LinkedIn or Dice on Nov 9, 2026 — original sweep plus the Nov 9 supplement sweep (4:05–4:25pm CT), which added Texas-heavy and lower-experience roles because speed matters most right now.</p>
+    <div class="profile">
+      <span class="chip">Experience: <strong>~8 years 9 months</strong> · from Feb 2018</span>
+      <span class="chip">Work auth: <strong>H-1B</strong></span>
+      <span class="chip">Availability: <strong>Immediate start</strong></span>
+      <span class="chip">Rate floor: <strong>$50/hr</strong></span>
+    </div>
+    <p style="font-size:13.5px;color:var(--muted);margin:10px 0 0">Senior, mid-level, and lower-experience roles are all included — apply to the closest fit first rather than waiting for a perfect experience match.</p>
+    <div class="stats">
+      <div class="stat"><b id="statTotal">{{LIVE}}</b><span>live verified roles · {{EXPIRED}} expired postings moved to the Expired tab · {{TOTAL}} roles total</span></div>
+      <div class="stat"><b>{{H1B}}</b><span>list H-1B / H-1B transfers in the posting</span></div>
+      <div class="stat"><b id="statApplied">0</b><span>marked applied — synced across devices</span></div>
+      <div class="stat stat-star"><b><span aria-hidden="true">★</span> <span id="statStarred">0</span></b><span>starred as priority — synced across devices</span></div>
+      <div class="stat stat-date"><b>{{SNAPSHOT}}</b><span>snapshot — {{SNAPSHOT_DATE}} refresh</span></div>
+    </div>
+    <p class="sync-status" id="syncStatus" role="status"><span class="sync-dot" aria-hidden="true"></span><span id="syncStatusText">Sync: connecting…</span></p>
+    <div class="notice"><strong>Read this first on H-1B, 1099 &amp; duplicate vendors:</strong> {{H1B}} postings list H-1B or H-1B transfers in their terms — for the rest, confirm with the vendor that they will file a transfer before spending time on an application. Pure 1099 / independent-contractor roles generally can't support an H-1B transfer — the Toloka role is included, clearly tagged, and can be isolated with the “1099 / Independent” filter. <strong>Do not apply to both sides of a duplicate:</strong> Innorev's ML Engineer and Kforce's AI Engineer II are the same Irving, TX client requisition; The Intersect Group's Data Engineer Mid and Kforce's Data Engineer also appear to be the same Irving, TX requisition via different vendors — pick one vendor per pair. W2 and C2C are the safer routes here.</div>
+  </header>
+
+  <nav class="view-tabs" aria-label="Job views">
+    <button class="view-tab" id="tabAll" data-view="all" role="tab" aria-selected="true">All Jobs <span class="tab-count" id="tabAllCount">{{LIVE}}</span></button>
+    <button class="view-tab" id="tabApplied" data-view="applied" role="tab" aria-selected="false">Applied <span class="tab-count" id="tabAppliedCount">0</span></button>
+    <button class="view-tab" id="tabExpired" data-view="expired" role="tab" aria-selected="false">Expired <span class="tab-count" id="tabExpiredCount">{{EXPIRED}}</span></button>
+  </nav>
+
+  <div class="controls">
+    <input class="search" id="q" type="search" placeholder="Search title, company, or skill — e.g. SageMaker, Kubernetes, Databricks…" aria-label="Search jobs">
+    <div class="filters" role="group" aria-label="Filters">
+      <button class="pill" data-f="all" aria-pressed="true">All types</button>
+      <button class="pill" data-f="c2c" aria-pressed="false">C2C</button>
+      <button class="pill" data-f="w2" aria-pressed="false">W2 contract</button>
+      <button class="pill" data-f="unsure" aria-pressed="false">Contract — check vendor</button>
+      <button class="pill" data-f="1099" aria-pressed="false">1099 / Independent</button>
+      <button class="pill" data-f="h1b" aria-pressed="false">H-1B listed</button>
+      <button class="pill" data-f="remote" aria-pressed="false">Remote</button>
+      <button class="pill" data-f="texas" aria-pressed="false">Texas</button>
+      <button class="pill" data-f="applied" aria-pressed="false">Applied only</button>
+      <button class="pill" data-f="starred" aria-pressed="false">★ Starred only</button>
+      <select id="sort" aria-label="Sort jobs">
+        <option value="priority">Sort: Priority</option>
+        <option value="pay">Sort: Pay — high to low</option>
+        <option value="new">Sort: Most recent</option>
+      </select>
+    </div>
+    <div class="filters" role="group" aria-label="Posted date filters">
+      <span style="font-size:13px;font-weight:700;color:var(--muted)">Posted:</span>
+      <button class="pill" data-d="all" aria-pressed="true">All dates</button>
+      <button class="pill" data-d="today" aria-pressed="false">Today</button>
+      <button class="pill" data-d="last2" aria-pressed="false">Last 2 days</button>
+      <button class="pill" data-d="last7" aria-pressed="false">Last 7 days</button>
+      <button class="pill" data-d="older" aria-pressed="false">Older than 7 days</button>
+    </div>
+  </div>
+
+  <p class="countline" id="countLine"></p>
+  <main id="list"></main>
+  <div id="empty" class="empty" hidden>No roles match those filters. Try clearing the search or picking “All types.”</div>
+
+  <footer>
+    <p><strong>How “Applied” works:</strong> Tapping <em>Mark as applied</em> moves the role out of the All Jobs list and into the Applied tab at the top, and saves the mark to the shared cloud database, so it syncs in real time to every phone or browser that opens this page — and it is still there after you close and reopen the page. A copy is also kept on this device as a fallback if the cloud connection is unavailable. Marking does not submit an application. Always apply on the actual LinkedIn / Dice posting via “View job.” In the Applied tab, tap <em>✓ Applied</em> again to un-mark a role — it will move back to the All Jobs list on every device.</p>
+    <p><strong>How stars work:</strong> Tapping the ☆ <em>Star</em> button marks a role as a priority — it gets a filled gold ★ and a “Priority” badge, and the “★ Starred only” filter shows just those roles. Stars sync across devices the same way Applied marks do, with a copy kept on this device as a fallback. Tap the star again to remove it everywhere.</p>
+    <p>Sources: LinkedIn Jobs and Dice, verified live Nov 9, 2026. Original sweep 2:17–2:40pm CT (LinkedIn ~475 items checked, 55 detail pages opened; Dice ~267 items, 18 detail pages). Supplement sweep Nov 9, 2026, 4:05–4:25pm CT added 25 checked roles: 21 are new cards below and 4 were already listed, so they were re-verified in place instead of duplicated — JC CORPORATIONS (Dice), Brooksource Principal AI Forward Deployed Engineer, INSPYR Solutions, and BrothersTech MLOps Engineer (visa list USC / GC / EAD / H1B, still live). Excluded after live checks in the original sweep: roles stating no sponsorship / USC–GC only, roles under $50/hr, and onsite roles outside Texas (except the H-1B-listed Las Vegas role, flagged). This is a snapshot fixed at build time — a new sweep is needed for fresher roles. Dice coverage note: second pages of the general Dice searches weren't scanned after the scope narrowed to ML/MLOps/AI/Data/Python, so this is a strong list, not an exhaustive census.</p>
+  </footer>
+</div>
+
+<script>
+<!-- {{ROLES_DATA}} -->
+<!-- {{APP_JS}} -->
+</script>
+</body>
+</html>
