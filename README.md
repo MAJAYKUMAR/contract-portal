@@ -5,8 +5,6 @@ first, then W2. Every role is checked live on its own Dice or LinkedIn page
 before it is listed, and re-checked every 2 hours; dead postings move to the
 Expired tab instead of disappearing.
 
-**Live demo:** https://contract-portal-azure.vercel.app/
-
 ## What it tracks
 
 - ML Engineer / MLOps / AI / Data / Python contract roles, $50/hr floor
@@ -76,8 +74,7 @@ entry has a matching job) before writing anything.
 
 ## Deploy
 
-Pushing to `main` auto-deploys to Vercel
-(https://contract-portal-azure.vercel.app/).
+Pushing to `main` auto-deploys to Vercel.
 
 ## Tech
 
