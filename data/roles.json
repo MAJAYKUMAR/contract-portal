@@ -1,9 +1,9 @@
 {
- "snapshot": "Nov 23, 2026, 6pm ET",
+ "snapshot": "Nov 24, 2026, 8am ET",
  "totals": {
   "live": 98,
-  "expired": 160,
-  "total": 258
+  "expired": 161,
+  "total": 259
  },
  "jobs": [
   {
@@ -4946,6 +4946,25 @@
    "src": "Dice · Nov 23 refresh",
    "desc": "Skills (thin description): Azure OpenAI, Hugging Face, AI Agent Frameworks, RAG, Document Intelligence & OCR.",
    "flag": "Pay: not stated — confirm $50+/hr with vendor. H-1B: not stated — confirm with vendor. Duration: not stated."
+  },
+  {
+   "id": 259,
+   "title": "Azure AI - Engineer",
+   "company": "Ideas2IT Technologies LLC",
+   "loc": "Remote",
+   "pay": "$60–$70/hr",
+   "payNum": 70,
+   "type": "unsure",
+   "typeLabel": "Contract — C2C-unsure",
+   "h1b": false,
+   "posted": "Nov 24, 2026",
+   "postedISO": "2026-11-24",
+   "exp": "5–8 years",
+   "dur": "Not stated",
+   "url": "https://www.dice.com/job-detail/e8c3d5d2-5bec-4a94-b201-607f515cd124",
+   "src": "Dice · Nov 24 refresh",
+   "desc": "Skills: Azure AI Foundry, Azure Data Factory, Azure Functions, Azure SQL, Azure DevOps, SQL, ERP integration. Remote.",
+   "flag": "H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Duration: not stated."
   }
  ],
  "expired": {
@@ -5108,6 +5127,7 @@
   "83": "Nov 23, 2026, 5:04pm CT",
   "128": "Nov 23, 2026, 5:05pm CT",
   "238": "Nov 23, 2026, 5:06pm CT",
-  "239": "Nov 23, 2026, 5:06pm CT"
+  "239": "Nov 23, 2026, 5:06pm CT",
+  "5": "Nov 24, 2026, 7:02am CT"
  }
 }
