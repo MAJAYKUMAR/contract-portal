@@ -1,9 +1,9 @@
 {
-  "snapshot": "Nov 24, 2026, 2pm ET",
+  "snapshot": "Nov 24, 2026, 4pm ET",
   "totals": {
-    "live": 97,
-    "expired": 172,
-    "total": 269
+    "live": 95,
+    "expired": 175,
+    "total": 270
   },
   "jobs": [
     {
@@ -5156,6 +5156,25 @@
       "src": "Dice · Nov 24 refresh",
       "desc": "Skills: AWS Bedrock, Bedrock Agents, SageMaker, Glue, EMR, Step Functions, RAG, LLM applications, Python, PySpark, SQL, LangChain/LangGraph (preferred), Terraform, CI/CD. Locations: Malvern, PA / Charlotte, NC / Dallas, TX (hybrid 3 days/week).",
       "flag": "Pay: not stated — confirm $50+/hr with vendor. H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Locations Malvern, PA / Charlotte, NC / Dallas, TX (hybrid 3 days/week) — confirm placement at Dallas, TX."
+    },
+    {
+      "id": 270,
+      "title": "Lead AI/ML Engineer",
+      "company": "Xylo Technologies, Inc.",
+      "loc": "Remote",
+      "pay": "$100–$110/hr",
+      "payNum": 100,
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "h1b": false,
+      "posted": "Nov 24, 2026",
+      "postedISO": "2026-11-24",
+      "exp": "7+ years (Master's) / 9+ years (Bachelor's)",
+      "dur": "1 Year",
+      "url": "https://www.dice.com/job-detail/3479752b-f452-4e99-a80e-af4f1965600e",
+      "src": "Dice · Nov 24 refresh",
+      "desc": "Skills: Python, GCP, agentic workflows, LangGraph, Langfuse, MCP, RAG (embedding/vectorization, hybrid search, reranking), agentic question answering, healthcare data, Claude Code. Client: Mayo Clinic (Req ID 37801475). Lead a team building/operating agentic workflows to accelerate clinical trial activation.",
+      "flag": "H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Client: Mayo Clinic. Description title: Principal AI/ML Engineer."
     }
   ],
   "expired": {
@@ -5330,6 +5349,9 @@
     "221": "Nov 24, 2026, 11:06am CT",
     "235": "Nov 24, 2026, 11:06am CT",
     "176": "Nov 24, 2026, 1:06pm CT",
-    "254": "Nov 24, 2026, 1:07pm CT"
+    "254": "Nov 24, 2026, 1:07pm CT",
+    "57": "Nov 24, 2026, 3:03pm CT",
+    "224": "Nov 24, 2026, 3:06pm CT",
+    "260": "Nov 24, 2026, 3:07pm CT"
   }
 }
