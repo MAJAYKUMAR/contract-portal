@@ -1,9 +1,9 @@
 {
- "snapshot": "Nov 24, 2026, 8am ET",
+ "snapshot": "Nov 24, 2026, 10am ET",
  "totals": {
-  "live": 98,
-  "expired": 161,
-  "total": 259
+  "live": 96,
+  "expired": 166,
+  "total": 262
  },
  "jobs": [
   {
@@ -4965,6 +4965,63 @@
    "src": "Dice · Nov 24 refresh",
    "desc": "Skills: Azure AI Foundry, Azure Data Factory, Azure Functions, Azure SQL, Azure DevOps, SQL, ERP integration. Remote.",
    "flag": "H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Duration: not stated."
+  },
+  {
+   "id": 260,
+   "title": "Ontology Agentic AI Engineer (Remote)",
+   "company": "DMS Vision Inc.",
+   "loc": "100% Remote",
+   "pay": "Pay not stated — confirm $50+/hr with vendor",
+   "payNum": 0,
+   "type": "unsure",
+   "typeLabel": "Contract — C2C-unsure",
+   "h1b": false,
+   "posted": "Nov 24, 2026",
+   "postedISO": "2026-11-24",
+   "exp": "Not stated",
+   "dur": "6+ months",
+   "url": "https://www.dice.com/job-detail/502f1180-0084-4f48-96e6-583a8242b4fe",
+   "src": "Dice · Nov 24 refresh",
+   "desc": "Skills: ontology / knowledge graphs, RDF/OWL/SPARQL, Python, Kubernetes, Agentic AI, GraphRAG, LangGraph. 100% Remote.",
+   "flag": "Pay: not stated — confirm $50+/hr with vendor. H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor."
+  },
+  {
+   "id": 261,
+   "title": "AI/ML Engineer",
+   "company": "TechniPros, LLC",
+   "loc": "Houston / San Antonio / Dallas / Austin, TX (Remote in Houston)",
+   "pay": "Pay not stated — confirm $50+/hr with vendor",
+   "payNum": 0,
+   "type": "w2",
+   "typeLabel": "W2 only — C2C not accepted",
+   "h1b": false,
+   "posted": "Nov 24, 2026",
+   "postedISO": "2026-11-24",
+   "exp": "Senior-level; no explicit years stated",
+   "dur": "12+ months",
+   "url": "https://www.dice.com/job-detail/f3ff987a-493c-491d-871d-632fd5370125",
+   "src": "Dice · Nov 24 refresh",
+   "desc": "Senior AI/ML Platform Engineer — enterprise ML platforms, MLOps / LLMOps, MLflow, Kubeflow, Feature Store, Model Registry, Docker, Kubernetes, FastAPI, Python, Azure / AWS / GCP. Remote in Houston, TX.",
+   "flag": "Pay: not stated — confirm $50+/hr with vendor. H-1B: not stated — confirm with vendor. W2 only — no C2C."
+  },
+  {
+   "id": 262,
+   "title": "Senior AI/ML Engineer",
+   "company": "Raas Infotek LLC",
+   "loc": "Austin, TX",
+   "pay": "Pay not stated — confirm $50+/hr with vendor",
+   "payNum": 0,
+   "type": "w2",
+   "typeLabel": "W2",
+   "h1b": false,
+   "posted": "Nov 24, 2026",
+   "postedISO": "2026-11-24",
+   "exp": "12+ years",
+   "dur": "Not stated",
+   "url": "https://www.dice.com/job-detail/8ca6c965-d0a5-497f-aeae-dd926ce323d2",
+   "src": "Dice · Nov 24 refresh",
+   "desc": "Python, ML/DL, GenAI, LLMs, NLP, RAG, LangChain/LangGraph, OpenAI/Azure OpenAI/AWS Bedrock/Claude, MLOps, AWS/Azure/GCP. Austin, TX.",
+   "flag": "Pay: not stated — confirm $50+/hr with vendor. H-1B: not stated — confirm with vendor."
   }
  ],
  "expired": {
@@ -5128,6 +5185,11 @@
   "128": "Nov 23, 2026, 5:05pm CT",
   "238": "Nov 23, 2026, 5:06pm CT",
   "239": "Nov 23, 2026, 5:06pm CT",
-  "5": "Nov 24, 2026, 7:02am CT"
+  "5": "Nov 24, 2026, 7:02am CT",
+  "106": "Nov 24, 2026, 9:07am CT",
+  "233": "Nov 24, 2026, 9:09am CT",
+  "242": "Nov 24, 2026, 9:10am CT",
+  "247": "Nov 24, 2026, 9:10am CT",
+  "249": "Nov 24, 2026, 9:10am CT"
  }
 }
