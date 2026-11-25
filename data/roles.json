@@ -1,9 +1,9 @@
 {
-  "snapshot": "Nov 25, 2026, 8am ET",
+  "snapshot": "Nov 25, 2026, 10am ET",
   "totals": {
-    "live": 94,
-    "expired": 177,
-    "total": 271
+    "live": 95,
+    "expired": 178,
+    "total": 273
   },
   "jobs": [
     {
@@ -5194,6 +5194,44 @@
       "type": "unsure",
       "typeLabel": "Contract — C2C-unsure",
       "url": "https://www.dice.com/job-detail/c27b6849-ecfd-4f7b-94bd-c274e8141b69"
+    },
+    {
+      "company": "VYSoft Solutions Inc",
+      "desc": "Skills: Conversational AI (Google Dialogflow CX/ES, voicebots/chatbots, IVR), Genesys Cloud CX (routing, agent handoff, contact-center integrations), GCP (Cloud Functions, Pub/Sub, BigQuery), Node.js/Python webhooks, REST APIs, React front end, CI/CD, Vertex AI, Gemini, LangChain, Agentic AI. Senior technical lead building enterprise IVR/voicebot/chatbot solutions.",
+      "dur": "Not stated",
+      "exp": "12+ years overall; 4–6+ years Conversational AI",
+      "flag": "Pay: $65–$70/hr. H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Houston, TX (no remote/hybrid language in posting — treat as Texas onsite). Experience ask is 12+ years overall.",
+      "h1b": false,
+      "id": 272,
+      "loc": "Houston, TX",
+      "pay": "$65–$70/hr",
+      "payNum": 70,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 25 refresh",
+      "title": "Sr. AI Engineer",
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "url": "https://www.dice.com/job-detail/2b144fef-02fb-430e-a71f-adc9a0a6f2b6"
+    },
+    {
+      "company": "JC CORPORATIONS",
+      "desc": "Skills: Agentic AI applications and autonomous AI agents, Python, Node.js, AWS cloud services, LLMs and API integration, backend applications and services, intelligent AI workflows and automation. Independent delivery with minimal supervision.",
+      "dur": "Not stated",
+      "exp": "10+ years (Agentic AI)",
+      "flag": "Pay: $50–$60/hr (at the $50/hr floor). H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Austin, TX (no remote/hybrid language in posting — treat as Texas onsite). Experience ask is 10+ years in Agentic AI.",
+      "h1b": false,
+      "id": 273,
+      "loc": "Austin, TX",
+      "pay": "$50–$60/hr",
+      "payNum": 60,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 25 refresh",
+      "title": "AI Engineer",
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "url": "https://www.dice.com/job-detail/e7419fe2-8581-4be3-b414-0221ac5910a5"
     }
   ],
   "expired": {
@@ -5350,7 +5388,6 @@
     "230": "Nov 20, 2026, 3:06pm CT",
     "232": "Nov 20, 2026, 3:07pm CT",
     "234": "Nov 23, 2026, 11:06am CT",
-    "244": "Nov 23, 2026, 11:07am CT",
     "248": "Nov 23, 2026, 3:06pm CT",
     "83": "Nov 23, 2026, 5:04pm CT",
     "128": "Nov 23, 2026, 5:05pm CT",
@@ -5373,6 +5410,8 @@
     "260": "Nov 24, 2026, 3:07pm CT",
     "243": "Nov 24, 2026, 5:10pm CT",
     "144": "Nov 25, 2026, 7:09am CT",
-    "163": "Nov 25, 2026, 7:09am CT"
+    "163": "Nov 25, 2026, 7:09am CT",
+    "261": "Nov 25, 2026, 9:11am CT",
+    "262": "Nov 25, 2026, 9:11am CT"
   }
 }
