@@ -1,9 +1,9 @@
 {
-  "snapshot": "Nov 24, 2026, 6pm ET",
+  "snapshot": "Nov 25, 2026, 8am ET",
   "totals": {
-    "live": 95,
-    "expired": 175,
-    "total": 270
+    "live": 94,
+    "expired": 177,
+    "total": 271
   },
   "jobs": [
     {
@@ -5175,6 +5175,25 @@
       "src": "Dice · Nov 24 refresh",
       "desc": "Skills: Python, GCP, agentic workflows, LangGraph, Langfuse, MCP, RAG (embedding/vectorization, hybrid search, reranking), agentic question answering, healthcare data, Claude Code. Client: Mayo Clinic (Req ID 37801475). Lead a team building/operating agentic workflows to accelerate clinical trial activation.",
       "flag": "H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Client: Mayo Clinic. Description title: Principal AI/ML Engineer."
+    },
+    {
+      "company": "VGAI Solutions Inc",
+      "desc": "Skills: GenAI production development, Python, MCP (Model Context Protocol), agentic orchestration (Semantic Kernel, LangChain/LangGraph, Copilot Studio, OpenAI/Anthropic tool-calling), RAG, vector DBs (Pinecone, FAISS, Weaviate, Chroma), LLM evaluation, prompt engineering, Azure/AWS/GCP, CI/CD, REST APIs. Technical lead building agentic solutions; airline/transportation experience a plus.",
+      "dur": "Not stated",
+      "exp": "5–12 years",
+      "flag": "Pay: not stated — confirm $50+/hr with vendor. H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Hybrid Dallas, TX — onsite Tue–Thu, remote Mon/Fri. Interview: 1 round, in person.",
+      "h1b": false,
+      "id": 271,
+      "loc": "Dallas, TX (Hybrid: onsite Tue–Thu, remote Mon/Fri)",
+      "pay": "Pay not stated — confirm $50+/hr with vendor",
+      "payNum": 0,
+      "posted": "Nov 24, 2026",
+      "postedISO": "2026-11-24",
+      "src": "Dice · Nov 25 refresh",
+      "title": "Senior AI Engineer / Technical Lead (Agentic AI)",
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "url": "https://www.dice.com/job-detail/c27b6849-ecfd-4f7b-94bd-c274e8141b69"
     }
   ],
   "expired": {
@@ -5352,6 +5371,8 @@
     "57": "Nov 24, 2026, 3:03pm CT",
     "224": "Nov 24, 2026, 3:06pm CT",
     "260": "Nov 24, 2026, 3:07pm CT",
-    "243": "Nov 24, 2026, 5:10pm CT"
+    "243": "Nov 24, 2026, 5:10pm CT",
+    "144": "Nov 25, 2026, 7:09am CT",
+    "163": "Nov 25, 2026, 7:09am CT"
   }
 }
