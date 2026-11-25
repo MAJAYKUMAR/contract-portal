@@ -1,9 +1,9 @@
 {
-  "snapshot": "Nov 25, 2026, 12pm ET",
+  "snapshot": "Nov 25, 2026, 2pm ET",
   "totals": {
     "live": 95,
-    "expired": 183,
-    "total": 278
+    "expired": 184,
+    "total": 279
   },
   "jobs": [
     {
@@ -5327,6 +5327,25 @@
       "type": "unsure",
       "typeLabel": "Contract — C2C-unsure",
       "url": "https://www.dice.com/job-detail/b3c386f0-90fc-45ee-a856-38843b531e4c"
+    },
+    {
+      "company": "Apetan Consulting",
+      "desc": "Skills: Python, machine learning, MLOps, MLflow, Kubeflow, Airflow, Docker, Kubernetes, CI/CD, AWS/Azure/GCP, data pipelines and automation. Builds, deploys, automates and maintains ML models in production; manages ML pipelines, automates model training and deployment, monitors model performance. Remote contract role.",
+      "dur": "Not stated",
+      "exp": "Not stated",
+      "flag": "Pay: not stated — confirm $50+/hr with vendor. H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Remote (posting text says Remote; Dice location field lists Jackson Township, NJ — vendor location). Experience years not stated.",
+      "h1b": false,
+      "id": 279,
+      "loc": "Remote",
+      "pay": "Pay not stated",
+      "payNum": 0,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 25 refresh",
+      "title": "MLOps Engineers / Remote",
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "url": "https://www.dice.com/job-detail/4687d504-7e2e-4841-bd11-39174923419b"
     }
   ],
   "expired": {
@@ -5512,6 +5531,7 @@
     "156": "Expired Nov 25, 2026, 11:06am CT — posting removed",
     "237": "Expired Nov 25, 2026, 11:08am CT — posting removed",
     "256": "Expired Nov 25, 2026, 11:09am CT — posting removed",
-    "264": "Expired Nov 25, 2026, 11:09am CT — posting removed"
+    "264": "Expired Nov 25, 2026, 11:09am CT — posting removed",
+    "96": "Expired Nov 25, 2026, 1:03pm CT — posting removed"
   }
 }
