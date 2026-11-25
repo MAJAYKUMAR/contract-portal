@@ -1,9 +1,9 @@
 {
-  "snapshot": "Nov 25, 2026, 10am ET",
+  "snapshot": "Nov 25, 2026, 12pm ET",
   "totals": {
     "live": 95,
-    "expired": 178,
-    "total": 273
+    "expired": 183,
+    "total": 278
   },
   "jobs": [
     {
@@ -5232,6 +5232,101 @@
       "type": "unsure",
       "typeLabel": "Contract — C2C-unsure",
       "url": "https://www.dice.com/job-detail/e7419fe2-8581-4be3-b414-0221ac5910a5"
+    },
+    {
+      "company": "Mitchell Martin, Inc.",
+      "desc": "Skills: Databricks, Apache Spark, Delta Lake, SQL, Python, Azure, Git. Designs and maintains scalable data pipelines and products; performs exploratory data analysis; develops and monitors machine learning models; implements enterprise LLM applications; uses AI coding assistants. Remote contract role.",
+      "dur": "Not stated",
+      "exp": "Not stated",
+      "flag": "Pay: $136–$146/hr. H-1B: not stated — confirm with vendor. C2C: confirmed (posting states W2/C2C). Remote (posting text says Remote; Dice location field lists Sun Prairie, WI — vendor location). Experience years not stated.",
+      "h1b": false,
+      "id": 274,
+      "loc": "Remote",
+      "pay": "$136–$146/hr",
+      "payNum": 146,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 25 refresh",
+      "title": "Senior Data AI LLM Engineer",
+      "type": "c2c",
+      "typeLabel": "W2 / C2C",
+      "url": "https://www.dice.com/job-detail/a1c52dfc-c83e-4843-b18b-1ec85cb7f566"
+    },
+    {
+      "company": "New York Technology Partners",
+      "desc": "Skills: Python, SQL, Spark, PySpark, Unix/Linux, GCP (BigQuery, Composer/Airflow, GCS, Dataproc, Dataflow), Kafka, Oracle Exadata, GitHub, GitHub Actions, Harness, CI/CD, OpenShift Container Platform, event-driven architecture, data governance and data quality. Designs and supports scalable batch and real-time data pipelines; experience leveraging AI build tools and Agentic AI solutions.",
+      "dur": "Not stated",
+      "exp": "10 years IT; 5+ years Data Engineering; 2+ years GCP",
+      "flag": "Pay: not stated — confirm $50+/hr with vendor. H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Dallas, TX hybrid (3 days office). Experience ask is 10 years IT.",
+      "h1b": false,
+      "id": 275,
+      "loc": "Dallas, TX",
+      "pay": "Pay not stated",
+      "payNum": 0,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 25 refresh",
+      "title": "Lead Data Google Cloud Platform Engineer",
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "url": "https://www.dice.com/job-detail/cc0b038a-6f20-4bc0-abbb-83ab1db8c9ff"
+    },
+    {
+      "company": "Mitchell Martin, Inc.",
+      "desc": "Skills: Python, Spark, MapReduce, Big Data Services, relational databases, ETL platforms. Designs and implements data architecture solutions; builds algorithms, prototypes, and predictive models; mentors other developers. Fully onsite in Plano, TX.",
+      "dur": "Not stated",
+      "exp": "5–7 years (data architecture)",
+      "flag": "Pay: $61–$71/hr. H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Plano, TX fully onsite (Texas onsite).",
+      "h1b": false,
+      "id": 276,
+      "loc": "Plano, TX",
+      "pay": "$61–$71/hr",
+      "payNum": 71,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 25 refresh",
+      "title": "Data Engineer",
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "url": "https://www.dice.com/job-detail/e5c5850d-1e7e-4c4c-916f-8e15665f56ec"
+    },
+    {
+      "company": "HAN IT Staffing Inc.",
+      "desc": "Skills: Informatica Data Quality (IDQ), SQL, data validation and reconciliation. Data-quality-focused role: finalizes, validates, and deploys ~12 existing DQ workflows/reports; runs a structured monthly Data Quality review process; incident management and root-cause analysis. Remote.",
+      "dur": "Not stated",
+      "exp": "Not stated",
+      "flag": "Pay: not stated — confirm $50+/hr with vendor. H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Remote. Data-quality / Informatica IDQ specialization — not ML/AI work; experience years not stated.",
+      "h1b": false,
+      "id": 277,
+      "loc": "Remote",
+      "pay": "Pay not stated",
+      "payNum": 0,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 25 refresh",
+      "title": "Data Engineer",
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "url": "https://www.dice.com/job-detail/67ac2be9-2e45-4453-ac74-beac94ad7482"
+    },
+    {
+      "company": "Vish Consulting Services, Inc.",
+      "desc": "Skills: GCP (Cloud Run/GKE, Vertex AI, IAM, VPC/networking, Cloud SQL/Spanner/Firestore, Pub/Sub, Secret Manager, Cloud Logging/Monitoring), Agentic AI (LLM agents, tool/function calling, multi-step workflows, memory/state, RAG, embeddings/vector search, prompt engineering, structured outputs, guardrails, evaluation), Python, TypeScript/JavaScript, FastAPI, Node.js, React/Next.js, Terraform, CI/CD, Docker, Kubernetes. Owns a cloud-native agentic AI web application end-to-end, prototype to production.",
+      "dur": "Not stated",
+      "exp": "8–12+ years software engineering; 3+ years cloud-native architecture",
+      "flag": "Pay: $70–$75/hr. H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Remote. Experience ask 8–12+ years — matches Harshitha's ~8 years.",
+      "h1b": false,
+      "id": 278,
+      "loc": "Remote",
+      "pay": "$70–$75/hr",
+      "payNum": 75,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 25 refresh",
+      "title": "Full Stack AI Engineer With Google Cloud Platform Exp.",
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "url": "https://www.dice.com/job-detail/b3c386f0-90fc-45ee-a856-38843b531e4c"
     }
   ],
   "expired": {
@@ -5412,6 +5507,11 @@
     "144": "Nov 25, 2026, 7:09am CT",
     "163": "Nov 25, 2026, 7:09am CT",
     "261": "Nov 25, 2026, 9:11am CT",
-    "262": "Nov 25, 2026, 9:11am CT"
+    "262": "Nov 25, 2026, 9:11am CT",
+    "119": "Expired Nov 25, 2026, 11:05am CT — posting removed",
+    "156": "Expired Nov 25, 2026, 11:06am CT — posting removed",
+    "237": "Expired Nov 25, 2026, 11:08am CT — posting removed",
+    "256": "Expired Nov 25, 2026, 11:09am CT — posting removed",
+    "264": "Expired Nov 25, 2026, 11:09am CT — posting removed"
   }
 }
