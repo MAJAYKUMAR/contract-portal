@@ -1,9 +1,9 @@
 {
-  "snapshot": "Nov 25, 2026, 2pm ET",
+  "snapshot": "Nov 26, 2026, 12pm ET",
   "totals": {
     "live": 95,
-    "expired": 184,
-    "total": 279
+    "expired": 186,
+    "total": 281
   },
   "jobs": [
     {
@@ -5346,6 +5346,44 @@
       "type": "unsure",
       "typeLabel": "Contract — C2C-unsure",
       "url": "https://www.dice.com/job-detail/4687d504-7e2e-4841-bd11-39174923419b"
+    },
+    {
+      "company": "QUANTUM TECHNOLOGIES LLC",
+      "desc": "Skills: Java 17+, Spring Boot/Cloud, Hibernate, LangChain4j, Spring AI, Deep Java Library (DJL)/Tribuo, LLM architectures, machine learning, Docker, Kubernetes, CI/CD, AWS/Azure/GCP. Designs, builds and deploys AI-powered software solutions; blends backend Java with LLM architectures. Remote contract role.",
+      "dur": "6 Months + Extension",
+      "exp": "Not stated",
+      "flag": "Pay: $84/hr (JSON-LD $80–$90/hr). H-1B: listed in work authorization (USC GC H-1B OPT-EAD GC-EAD). C2C: confirmed — posting states C2C/1099 (1099 also offered as an option, not 1099-only). Remote. Duration 6 months + extension. Experience years not stated.",
+      "h1b": true,
+      "id": 280,
+      "loc": "Remote",
+      "pay": "$84/hr",
+      "payNum": 84,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 26 refresh",
+      "title": "Senior Java AI Engineer",
+      "type": "c2c",
+      "typeLabel": "C2C",
+      "url": "https://www.dice.com/job-detail/1966569e-fdf3-4f13-b58a-44d24819d0e5"
+    },
+    {
+      "company": "Codeforce 360",
+      "desc": "Skills: ServiceNow (UI Builder, Service Portal, Flow Designer, IntegrationHub, ITSM, CMDB), AI/LLM integration, agentic AI workflows, MCP patterns, prompt-based conversational interfaces, REST APIs, OAuth 2.0, webhooks. Integrates ServiceNow with enterprise AI/LLM platforms; designs agentic AI workflows and modernizes ServiceNow experiences. Austin, TX contract role.",
+      "dur": "Not stated",
+      "exp": "Not stated",
+      "flag": "Pay: $50–$55/hr (at the $50/hr floor). H-1B: not stated — confirm with vendor. C2C: not stated — confirm with vendor. Austin, TX onsite. ServiceNow-platform AI role — AI/LLM and agentic work, but ServiceNow-heavy. Duration and experience years not stated.",
+      "h1b": false,
+      "id": 281,
+      "loc": "Austin, TX",
+      "pay": "$50–$55/hr",
+      "payNum": 55,
+      "posted": "Nov 25, 2026",
+      "postedISO": "2026-11-25",
+      "src": "Dice · Nov 26 refresh",
+      "title": "Lead ServiceNow - AI Engineer",
+      "type": "unsure",
+      "typeLabel": "Contract — C2C-unsure",
+      "url": "https://www.dice.com/job-detail/5b7a5bd9-a1ab-42ff-b2b1-07019c42a907"
     }
   ],
   "expired": {
@@ -5532,6 +5570,8 @@
     "237": "Expired Nov 25, 2026, 11:08am CT — posting removed",
     "256": "Expired Nov 25, 2026, 11:09am CT — posting removed",
     "264": "Expired Nov 25, 2026, 11:09am CT — posting removed",
-    "96": "Expired Nov 25, 2026, 1:03pm CT — posting removed"
+    "96": "Expired Nov 25, 2026, 1:03pm CT — posting removed",
+    "93": "Expired Nov 26, 2026, 11:03am CT — posting removed",
+    "257": "Expired Nov 26, 2026, 11:07am CT — posting removed"
   }
 }
